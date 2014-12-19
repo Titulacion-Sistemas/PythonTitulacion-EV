@@ -1,0 +1,3 @@
+#!D:\Datos\Documents\GitHub\PythonTitulacion-EV\Scripts\python.exe
+from pylint import run_symilar
+run_symilar()
